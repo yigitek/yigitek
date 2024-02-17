@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yigit Korkmaz</h1>
 <h3 align="center">.Net Developer | Computer Science Master student at University of Łódź</h3>
-<h4 align="center">a Turkish guy who came to Poland for my Computer Science Master degree. I love solving algo problems in Python and C#.</h4>
+<h4 align="center">a Turkish guy who came to Poland for the Computer Science Master degree. I love solving algo problems in Python and C#.</h4>
 
 
 - 🔭 I’m currently working on **improving my skills in JavaScript/TypeScript**
